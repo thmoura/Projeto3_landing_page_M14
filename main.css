@@ -20,3 +20,12 @@ body{
 .navbar-toggler{
     background-color: white;
 }
+
+.nav-produtos .nav-link.active{
+    background-color: blue;
+    color: white;
+}
+
+.nav-produtos .nav-link:hover{
+
+}
