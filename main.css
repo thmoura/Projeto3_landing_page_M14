@@ -39,3 +39,9 @@ body{
     background-color:rgb(241, 143, 15);
     color: white;
 }
+
+@media(max-width: 767p){
+    .carousel-item img{
+        height: 280px;
+    }
+}
