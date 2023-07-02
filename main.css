@@ -26,6 +26,16 @@ body{
     color: white;
 }
 
-.nav-produtos .nav-link:hover{
+.social-links li{
+    list-style: none;
+    display: inline;
+}
 
+.social-links a{
+    text-decoration: none;
+}
+
+#fale-conosco button{
+    background-color:rgb(241, 143, 15);
+    color: white;
 }
